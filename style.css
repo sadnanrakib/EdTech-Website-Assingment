@@ -1,0 +1,9 @@
+.carousel-caption {
+    
+    bottom: 8.25rem !important;
+    
+}
+.carousel-img{
+    height: 80vh !important;
+    object-fit: cover;
+}
